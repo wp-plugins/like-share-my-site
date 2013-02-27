@@ -4,7 +4,7 @@ Plugin Name: Like & Share My Site
 Plugin URI: http://www.scottflack.com
 Description: This plugin allows you to easily set up buttons for 'likes' and 'shares' from multiple social networks.
 Author: Scott Flack
-Version: 0.1
+Version: 0.2
 Author URI: http://www.scottflack.com
 License: GPL2
 */
